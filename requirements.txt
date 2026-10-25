@@ -1,0 +1,7 @@
+# 必需
+pillow>=10.0
+numpy>=1.24
+pyusb>=1.2.1
+
+# 可选：examples/04_live_panel.py 用它读 CPU/内存占用
+psutil>=5.9

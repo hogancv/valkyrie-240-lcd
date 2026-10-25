@@ -1,0 +1,11 @@
+{
+  "_comment": "演示数据。真实数值请用 --source token-monitor 从本机归档读取。",
+  "generated_at": "2026-10-25T21:30:00+08:00",
+  "today":    { "tokens": 155330000, "cost": 16.67, "messages": 1046 },
+  "month":    { "tokens": 412860000, "cost": 42.31, "messages": 2884 },
+  "all_time": { "tokens": 1284000000, "cost": 131.77, "messages": 9137 },
+  "top_models": [
+    { "name": "deepseek-v4.1-flash", "tokens": 77620000, "cost": 1.68 },
+    { "name": "gpt-6.1-sol", "tokens": 49570000, "cost": 14.2 }
+  ]
+}
